@@ -1,0 +1,16 @@
+/**
+ * @name SunnyCord
+ * @author eGems#5393
+ * @version 1.0.0 BETA
+ * @description Semi-bright discord theme with a sunny background :)
+ * @source https://github.com/Stretchies/DiscordThemes/tree/main/SunnyCord
+*/
+
+@import url('https://raw.githubusercontent.com/Stretchies/DiscordThemes/main/SunnyCord/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://imgur.com/ylP9VGn');
+    --home-image: url('https://imgur.com/ERFHRQZ');
+}
