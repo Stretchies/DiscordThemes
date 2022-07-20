@@ -1,0 +1,15 @@
+/*
+SunnyCord base.css file!
+This file may not be readable.
+*/
+
+.app {
+    background: url(https://imgur.com/ylP9VGn)!important;
+    background-size: cover!important;
+	background-size: cover!important;
+}
+
+:root {
+	--main-bg-color: rgba(255, 0, 255, 0.5)!important;
+	--transparent: transparent!important;
+}
